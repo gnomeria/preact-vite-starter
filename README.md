@@ -14,6 +14,20 @@
 - 🐺 Husky for pre-commit lint
 - ❓ PWA? (UNTESTED)
 
+## Clone this repo
+
+Use [degit](https://github.com/Rich-Harris/degit)
+
+```
+degit gnomeria/preact-vite-starter my-project
+```
+
+or
+
+```
+git clone https://github.com/gnomeria/preact-vite-starter
+```
+
 ## Installation
 
 ```sh
