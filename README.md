@@ -1,4 +1,4 @@
-# Vite + PReact + Tailwind CSS starter
+# Vite + Preact + Tailwind CSS starter
 
 > This project uses Vite for blazing fast development server ⚡
 
