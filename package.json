@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
-    "build": "cross-env NODE_ENV=production vite build"
+    "build": "cross-env NODE_ENV=production vite build",
+    "prettier": "prettier --write '**/*.{js,jsx,css,html}'"
   },
   "dependencies": {
     "preact": "^10.5.14",
