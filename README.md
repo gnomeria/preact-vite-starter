@@ -1,11 +1,11 @@
-# Vite + Preact + Tailwind CSS starter
+# Vite + Preact + WindiCSS starter
 
 > This project uses Vite for blazing fast development server ⚡
 
 ## Features:
 
 - 🌀 [Preact](https://preactjs.com)
-- 🎨 [TailwindCSS v2.0](https://blog.tailwindcss.com/tailwindcss-v2)
+- 🎨 [Windicss v3](https://windicss.org/)
 - ⚡ [Vite v2.0](https://github.com/vitejs/vite)
 - 📝 Eslint
 - ✨ Prettier
